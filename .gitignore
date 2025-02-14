@@ -1,0 +1,6 @@
+input/
+test/
+config.json
+venv/
+.DS_Store
+.idea
