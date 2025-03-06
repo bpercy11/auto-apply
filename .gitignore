@@ -4,3 +4,4 @@ config.json
 venv/
 .DS_Store
 .idea
+*-cover-letter.txt
